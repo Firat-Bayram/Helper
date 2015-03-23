@@ -62,6 +62,7 @@ public final class Helper {
         return type.cast(activity.findViewById(id));
     }
 
+
     /**
      * dialog üstündeki View den türemiş olan kontrollerinize erişmenizi sağlamaktadır.
      *
